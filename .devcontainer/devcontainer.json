@@ -11,5 +11,5 @@
 			"install": true
 		}
 	},
-	"postCreateCommand": "az bicep install && dotnet restore Application"
+	"postCreateCommand": "dotnet restore Application"
 }
