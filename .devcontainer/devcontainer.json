@@ -17,7 +17,7 @@
 		}
         
 	},
-    // Test
+    // Test number 2
 	// Use 'postCreateCommand' to run commands after the container is created.
 	 "postCreateCommand": "dotnet restore ./Application/src/RazorPagesTestSample/RazorPagesTestSample.csproj"
 
